@@ -1,0 +1,3 @@
+id: "20200728054123.26463460"
+project-name: ol
+stack: docker.io/appsody/java-openliberty:0.2
